@@ -1,0 +1,15 @@
+﻿  Assembling main.asm...
+main.asm(172): warning A6004: procedure argument or local not referenced : len
+main.asm(257): warning A6004: procedure argument or local not referenced : key
+main.asm(257): warning A6004: procedure argument or local not referenced : len
+main.asm(963): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(963): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(963): warning A6004: procedure argument or local not referenced : lpReserved
+     Creating library C:\Users\Dell\Desktop\Assembly project\Secured-Communication\Debug\Project.lib and object C:\Users\Dell\Desktop\Assembly project\Secured-Communication\Debug\Project.exp
+  Project.vcxproj -> C:\Users\Dell\Desktop\Assembly project\Secured-Communication\Debug\Project.dll
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
